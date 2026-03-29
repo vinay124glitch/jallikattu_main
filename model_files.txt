@@ -1,0 +1,19 @@
+﻿
+Name                        L
+                            e
+                            n
+                            g
+                            t
+                            h
+----                        -
+bull.glb                    4
+Dying.fbx                   0
+Entry.fbx                   0
+Falling.fbx                 6
+Flying Knee Punch Combo.fbx 6
+Idle.fbx                    8
+Jogging.fbx                 0
+Run.fbx                     4
+Running.fbx                 4
+
+

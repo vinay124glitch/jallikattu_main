@@ -1,0 +1,8 @@
+﻿
+Name            Length
+----            ------
+favicon.ico      20373
+placeholder.svg   3253
+robots.txt         160
+
+

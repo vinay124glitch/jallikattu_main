@@ -1,0 +1,27 @@
+﻿
+Name                     Leng
+                           th
+----                     ----
+.gitignore                253
+bun.lockb                ...5
+capture_console_logs.txt 2072
+components.json           414
+eslint.config.js          765
+huge_files.txt            260
+index.html               1030
+models_list.txt           328
+model_files.txt           505
+package-lock.json        ...1
+package.json             3062
+postcss.config.js          81
+public_files.txt          129
+README.md                2102
+root_list.txt               0
+tailwind.config.ts       3418
+tsconfig.app.json         685
+tsconfig.json             369
+tsconfig.node.json        481
+vite.config.ts            494
+vitest.config.ts          395
+
+

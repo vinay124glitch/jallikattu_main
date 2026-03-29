@@ -1,0 +1,14 @@
+﻿
+Name                       
+----                       
+bull.glb                   
+Dying.fbx                  
+Entry.fbx                  
+Falling.fbx                
+Flying Knee Punch Combo.fbx
+Idle.fbx                   
+Jogging.fbx                
+Run.fbx                    
+Running.fbx                
+
+
